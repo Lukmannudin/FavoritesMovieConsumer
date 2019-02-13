@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">favoritesCatalogueMovie</string>
+    <string name="genre">Horror</string>
+    <string name="movie_name">Spider Man</string>
+    <string name="rating">rating</string>
+    <string name="popularity">popularity</string>
+    <string name="language">language</string>
+    <string name="genres">Genres</string>
+    <string name="release">Release</string>
+    <string name="overview">Overview</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="search_placeholder">Search Name</string>
+    <string name="favorites">favorites</string>
+    <string name="duration">duration</string>
+    <string name="add_widget">Add widget</string>
+    <string name="appwidget_text">Favorites Movie</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="content_title">Content title</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+    <string name="send_notif">Send Notification</string>
+    <string name="change_language">Change Language</string>
+    <string name="reminder_setting">Reminder Setting</string>
+</resources>
